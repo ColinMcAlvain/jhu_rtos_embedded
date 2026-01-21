@@ -54,3 +54,26 @@ This repository is intended for academic and educational purposes. Code is provi
 ## License
 
 This project is licensed under the MIT License.
+
+---
+
+## Project 1 Morse Code LED or LCD System Development
+-Project - Hello World
+
+-Develop a C or C++ (or whatever other language you prefer) application
+which executes on an Arduino and displays a user typed string, such as
+“Hello World”, as Morse Code on an LED (or several LEDs), or an LCD.
+Implement all of the Morse Code letters. The word or phrase should typed
+and followed by enter and need not be an entire sentence with periods,
+commas, apostrophes, or other punctuations.
+
+-Design using a Round Robbin Design where in a loop it waits for a string,
+displays it in Morse Code, and only exits the loop if a sentinel is entered,
+such as ctrl-z
+
+-This Application can be developed using the VS Code, Arduino Sketch,
+AVRDude, AVR Studio, WinAVR, or any other IDE you wish to use.
+
+-Submit per directions in “Project Submission.docx”
+
+---
